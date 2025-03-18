@@ -7,7 +7,7 @@ first_name: Maxi
 middle_name:
 last_name: Schaller
 contact_note: >
-  To contact me, please email mschaller@diw.de.
+  To contact me, please reach out via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal webpage of Maxi Schaller, Economics PhD student at Berlin School of Economics.
 footer_text: >
@@ -54,8 +54,8 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 930px
-
+max_width: 1100px
+  # 930px is default
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------

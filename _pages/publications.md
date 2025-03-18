@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: 
 nav: true
 nav_order: 1
@@ -11,18 +11,25 @@ nav_order: 1
 
 <!-- Bibsearch Feature  {% include bib_search.liquid %}  -->
 
-
-## working papers
+{% bibliography %}
 
 <div class="publications">
-    {% bibliography -f workingpapers.bib %}
+{% bibliography %}
+</div>
+
+
+## Working Papers
+
+<div class="publications">
+{% bibliography workingpapers.bib %}
 </div>
 
 
 
+<div style="height: 10mm;"></div>
 
-## work in progress
+## Work in Progress
 
 **Social Skills and Wage Growth** (with Richard Blundell and Peter Haan)
 
-**Women's Promotion Prospects and Wage Growth** (with Boryana Ilieva)**
+**Women's Promotion Prospects and Wage Growth** (with Boryana Ilieva)
