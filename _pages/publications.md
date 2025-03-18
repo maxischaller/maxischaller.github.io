@@ -11,11 +11,12 @@ nav_order: 1
 
 <!-- Bibsearch Feature  {% include bib_search.liquid %}  -->
 
-{% bibliography -f papers.bib %}
 
 ## working papers
 
-{% bibliography -f workingpapers.bib %}
+<div class="publications">
+    {% bibliography -f workingpapers.bib %}
+</div>
 
 
 
