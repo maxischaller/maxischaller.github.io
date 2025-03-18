@@ -29,3 +29,5 @@ latest_posts:
 ---
 
 Welcome! I am a second year PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [DIW Berlin](https://www.diw.de/sixcms/detail.php?id=diw_01.c.617916.en).
+
+Find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
