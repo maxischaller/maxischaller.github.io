@@ -13,12 +13,11 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-### Publications
+### Working Paper
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f workingpapers.bib %}
 
 </div>
 
-### Working Papers
