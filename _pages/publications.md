@@ -12,13 +12,17 @@ nav_order: 1
 <!-- Bibsearch Feature  {% include bib_search.liquid %}  -->
 
 
-### working papers
+## working papers
 
 {% bibliography -f workingpapers.bib %}
 
 
-### work in progress
 
-**Social Skills and Wage Growth** (with Richard Blundell and Peter Haan)
 
-**Women's Promotion Prospects and Wage Growth** (with Boryana Ilieva)
+## work in progress
+
+## work in progress
+
+<b>Social Skills and Wage Growth</b> (with Richard Blundell and Peter Haan)
+
+<b>Women's Promotion Prospects and Wage Growth</b> (with Boryana Ilieva)
