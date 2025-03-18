@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: 
 description: 
 nav: true
 nav_order: 1
@@ -14,9 +14,7 @@ nav_order: 1
 
 ### working papers
 
-<div class="publications">
-
 {% bibliography -f workingpapers.bib %}
 
-</div>
+
 
