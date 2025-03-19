@@ -28,10 +28,14 @@ nav_order: 1
 
 
 <!-- inside div block in md file need to use html code -->
-<div>
+<div class="publications">
   <h2>Work in Progress</h2>
 
   <p><strong>Social Skills and Wage Growth</strong> (with Richard Blundell and Peter Haan)</p>
 
   <p><strong>Women's Promotion Prospects and Wage Growth</strong> (with Boryana Ilieva)</p>
+
+  <p class="test-bold">This text should be bold (font-weight: bold).</p>
+<p class="test-bolder">This text should be bolder (font-weight: bolder).</p>
+<p class="test-700">This text should be bold (font-weight: 700).</p>
 </div>

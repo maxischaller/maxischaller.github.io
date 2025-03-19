@@ -2,13 +2,24 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
- /*
+ 
  @import url('https://cdn.jsdelivr.net/gh/libertinus-fonts/libertinus-web@latest/libertinus.css'); // Import Linux Libertine
 
  body {
    font-family: 'Linux Libertine', serif; // Apply font globally
  }
-  */
+ .test-bold {
+  font-weight: bold; // Equivalent to 700
+}
+
+.test-bolder {
+  font-weight: bolder; // Relative to the parent element's font-weight
+}
+
+.test-700 {
+  font-weight: 700; // Explicitly set to bold
+}
+
 
 // Typography
 
