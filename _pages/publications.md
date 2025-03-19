@@ -30,10 +30,9 @@ nav_order: 1
 <!-- inside div block in md file need to use html code -->
 <div class="publications">
   <h2>Work in Progress</h2>
+    <p class="test-bold">Social Skills and Wage Growth (font-weight: bold).</p><p>(with Richard Blundell and Peter Haan)</p>
 
-  <p><strong>Social Skills and Wage Growth</strong> (with Richard Blundell and Peter Haan)</p>
-
-  <p><strong>Women's Promotion Prospects and Wage Growth</strong> (with Boryana Ilieva)</p>
+    <p><strong>Women's Promotion Prospects and Wage Growth</strong> (with Boryana Ilieva)</p>
 
 
 </div>
