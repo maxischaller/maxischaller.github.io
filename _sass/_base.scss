@@ -2,7 +2,7 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
- 
+ /* Add linux libertine font */
  @import url('https://cdn.jsdelivr.net/gh/libertinus-fonts/libertinus-web@latest/libertinus.css'); // Import Linux Libertine
 
  body {
@@ -11,14 +11,17 @@
  .test-bold {
   font-weight: bold; // Equivalent to 700
 }
-
 .test-bolder {
-  font-weight: bolder; // Relative to the parent element's font-weight
+  font-weight: bolder; // Relative to the parent element's font-weight -> does not work with linux libertine
 }
-
 .test-700 {
   font-weight: 700; // Explicitly set to bold
 }
+/* add this html code to the about page for testing
+<p class="test-bold">This text should be bold (font-weight: bold).</p>
+<p class="test-bolder">This text should be bolder (font-weight: bolder).</p>
+<p class="test-700">This text should be bold (font-weight: 700).</p>
+*/
 
 
 // Typography
@@ -316,7 +319,7 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: 500;  /* defaul 'bolder' does not work with libertine */
     color: var(--global-theme-color);
 
     &:hover {
@@ -778,7 +781,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500; /* default 'bolder' does not work with libertine */
       }
 
       .author {

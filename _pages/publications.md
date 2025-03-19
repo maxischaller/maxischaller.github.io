@@ -35,7 +35,5 @@ nav_order: 1
 
   <p><strong>Women's Promotion Prospects and Wage Growth</strong> (with Boryana Ilieva)</p>
 
-  <p class="test-bold">This text should be bold (font-weight: bold).</p>
-<p class="test-bolder">This text should be bolder (font-weight: bolder).</p>
-<p class="test-700">This text should be bold (font-weight: 700).</p>
+
 </div>
