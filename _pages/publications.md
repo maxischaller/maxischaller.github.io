@@ -17,11 +17,12 @@ nav_order: 1
     {% bibliography -f papers.bib %}
 </div>
 
+<--! 
 <div class="publications">
 <h2>Working Papers</h2>
 {% bibliography -f workingpapers.bib %}
 </div>
-
+-->
 
 
 <div style="height: 10mm;"></div>
@@ -30,9 +31,10 @@ nav_order: 1
 <!-- inside div block in md file need to use html code -->
 <div class="publications">
   <h2>Work in Progress</h2>
-    <p class="test-bold">Social Skills and Wage Growth (font-weight: bold).</p><p>(with Richard Blundell and Peter Haan)</p>
+    <p><span class="test-bold">Social Skills and Wage Growth</span> (with Richard Blundell and Peter Haan)</p>
 
-    <p><strong>Women's Promotion Prospects and Wage Growth</strong> (with Boryana Ilieva)</p>
+    <p><span class="test-bold">Women's Promotion Prospects and Wage Growth</span> (with Boryana Ilieva)</p>
+
 
 
 </div>

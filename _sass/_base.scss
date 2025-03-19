@@ -319,7 +319,7 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
-    font-weight: 500;  /* defaul 'bolder' does not work with libertine */
+    font-weight: bold;  /* defaul 'bolder' does not work with libertine */
     color: var(--global-theme-color);
 
     &:hover {
@@ -781,7 +781,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: 500; /* default 'bolder' does not work with libertine */
+        font-weight: bold; /* default 'bolder' does not work with libertine */
       }
 
       .author {
