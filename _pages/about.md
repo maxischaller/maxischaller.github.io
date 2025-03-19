@@ -28,6 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a second year PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home) and [DIW Berlin](https://www.diw.de/sixcms/detail.php?id=diw_01.c.617916.en).
+Welcome! I am a Econ PhD student at the [Berlin School of Economics](https://berlinschoolofeconomics.de/home). I also work as a research associate at the [German Institute of Economic Research](https://www.diw.de/sixcms/detail.php?id=diw_01.c.617916.en) (DIW Berlin).
 
-Find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
+My research interests include labor economics, applied microeconomics and structural microeconometrics.
+
+You can reach me via [email](mailto:maxischaller@diw.de).
+
+Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.

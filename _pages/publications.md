@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: research
 description: 
 nav: true
 nav_order: 1
@@ -17,12 +17,13 @@ nav_order: 1
     {% bibliography -f papers.bib %}
 </div>
 
-<--! 
+<!-- use jekyll liquid command to comment out>
+{% comment %}
 <div class="publications">
 <h2>Working Papers</h2>
 {% bibliography -f workingpapers.bib %}
 </div>
--->
+{% endcomment %}
 
 
 <div style="height: 10mm;"></div>
