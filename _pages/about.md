@@ -36,7 +36,7 @@ You can reach me via [email](mailto:maxischaller@diw.de).
 
 Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
 
-<div style="height: 80px;"></div>
+<div style="height: 50px;"></div>
 
 
 <div class="publications">
@@ -51,5 +51,6 @@ Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
 
     <p><span class="test-bold">Women's Promotion Prospects and Wage Growth</span> (with Boryana Ilieva)</p>
 
-
+    <div style="height: 50px;"></div>
+    
 </div>
