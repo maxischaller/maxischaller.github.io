@@ -346,10 +346,12 @@
 
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
-      <div class="abstract hidden">
+      <!-- removed "hidden" class below -->
+      <div class="abstract">
         <p>{{ entry.abstract }}</p>
       </div>
     {% endif %}
+    
 
     {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->
