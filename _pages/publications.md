@@ -12,16 +12,14 @@ nav_order: 1
 <!-- Bibsearch Feature  {% include bib_search.liquid %}  -->
 
 
-## Publications
 <div class="publications">
-  {% bibliography -f papers.bib %}
-
-
+    <h2>Publications</h2>
+    {% bibliography -f papers.bib %}
 </div>
 
-## Working Papers
 <div class="publications">
-  {% bibliography -f workingpapers.bib %}
+<h2>Working Papers</h2>
+{% bibliography -f workingpapers.bib %}
 </div>
 
 
@@ -29,9 +27,8 @@ nav_order: 1
 <div style="height: 10mm;"></div>
 
 
-
+<!-- inside div block in md file need to use html code -->
 <div>
-    <h1>Work in Progress</h1>
   <h2>Work in Progress</h2>
 
   <p><strong>Social Skills and Wage Growth</strong> (with Richard Blundell and Peter Haan)</p>

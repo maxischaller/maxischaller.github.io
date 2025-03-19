@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Schaller]
-  first_name: [Maximilian]
+  last_name: Schaller
+  first_name: Maximilian
 
   style: apa
   locale: en
