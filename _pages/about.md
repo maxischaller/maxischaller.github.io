@@ -35,3 +35,10 @@ My research interests include labor economics, applied microeconomics and struct
 You can reach me via [email](mailto:maxischaller@diw.de).
 
 Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
+
+<hr>
+
+<div class="publications">
+    <h2>Publications</h2>
+    {% bibliography -f papers.bib %}
+</div>
