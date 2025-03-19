@@ -26,12 +26,13 @@ nav_order: 1
 {% endcomment %}
 
 
-<div style="height: 10mm;"></div>
+<div style="height: 100px;"></div>
 
 
 <!-- inside div block in md file need to use html code -->
 <div class="publications">
   <h2>Work in Progress</h2>
+  <hr>
     <p><span class="test-bold">Social Skills and Wage Growth</span> (with Richard Blundell and Peter Haan)</p>
 
     <p><span class="test-bold">Women's Promotion Prospects and Wage Growth</span> (with Boryana Ilieva)</p>
