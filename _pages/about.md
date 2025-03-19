@@ -36,9 +36,24 @@ You can reach me via [email](mailto:maxischaller@diw.de).
 
 Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
 
+<div style="height: 50px;"></div>
+
+<hr>
 <hr>
 
+<div style="height: 50px;"></div>
+
 <div class="publications">
-    <h2>Publications</h2>
+    <h2>Research and Publications</h2>
     {% bibliography -f papers.bib %}
+
+    <div style="height: 50px;"></div>
+
+    <h2>Work in Progress</h2>
+    <hr>
+    <p><span class="test-bold">Social Skills and Wage Growth</span> (with Richard Blundell and Peter Haan)</p>
+
+    <p><span class="test-bold">Women's Promotion Prospects and Wage Growth</span> (with Boryana Ilieva)</p>
+
+
 </div>
