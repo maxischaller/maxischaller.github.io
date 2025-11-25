@@ -39,12 +39,3 @@ nav_order: 1
 
 </div>
 
-
-<!-- inside div block in md file need to use html code -->
-<div class="publications">
-  <h2>Policy Work</h2>
-  {% bibliography -f policy_work.bib %}
-  <hr>
-
-
-</div>
