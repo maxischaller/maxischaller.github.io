@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 description: 
-nav: false
+nav: true
 nav_order: 1
 ---
 
@@ -37,6 +37,13 @@ nav_order: 1
 
     <p><span class="test-bold">Women's Promotion Prospects and Wage Growth</span> (with Boryana Ilieva)</p>
 
+</div>
+
+
+<!-- inside div block in md file need to use html code -->
+<div class="publications">
+  <h2>Policy Work</h2>
+  <hr>
 
 
 </div>

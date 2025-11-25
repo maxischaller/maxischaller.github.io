@@ -38,7 +38,7 @@ Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
 
 <div style="height: 50px;"></div>
 
-
+<!--
 <div class="publications">
     <h2>Publications</h2>
     {% bibliography -f papers.bib %}
@@ -54,3 +54,4 @@ Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
     <div style="height: 100px;"></div>
     
 </div>
+-->
