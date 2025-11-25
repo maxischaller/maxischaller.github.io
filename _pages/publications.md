@@ -17,7 +17,7 @@ nav_order: 1
     {% bibliography -f papers.bib %}
 </div>
 
-<!-- use jekyll liquid command to comment out>
+<!-- use jekyll liquid command to comment out -->
 {% comment %}
 <div class="publications">
 <h2>Working Papers</h2>
@@ -43,6 +43,7 @@ nav_order: 1
 <!-- inside div block in md file need to use html code -->
 <div class="publications">
   <h2>Policy Work</h2>
+  {% bibliography -f policy_work.bib %}
   <hr>
 
 
