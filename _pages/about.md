@@ -32,6 +32,8 @@ I'm a PhD candidate in Economics at the [Berlin School of Economics](https://ber
 
 My research interests include labor economics, applied microeconomics and structural microeconometrics.
 
+I serve as chair of the board of the [Berlin Network for Labor Market Research (BeNA)](https://labor-research.net).
+
 You can reach me via [email](mailto:maxischaller@diw.de).
 
 Please find my CV <a href = "../assets/pdf/cv-schaller.pdf">here</a>.
