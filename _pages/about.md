@@ -6,7 +6,7 @@ subtitle: # maybe write phd student at .. info here. <a href='#'>Affiliations</a
 
 profile:
   align: right
-  image: #prof_pic.jpg
+  image: MSchaller_quer_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: #> 
   # <p>PhD Student at Berlin School of Economics</p> 
