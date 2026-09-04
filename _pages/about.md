@@ -6,13 +6,13 @@ subtitle: # maybe write phd student at .. info here. <a href='#'>Affiliations</a
 
 profile:
   align: right
-  image: MSchaller_quer_crop.jpg
+  image: MSchaller_quer_crop_3.jpg
   image_circular: false # crops the image to make it circular
-  more_info: #> 
-  # <p>PhD Student at Berlin School of Economics</p> 
-  # <p>555 your office number</p>
-  # <p>123 your address street</p>
-  # <p>Your City, State 12345</p>
+  more_info: > 
+   <p>DIW Berlin</p> 
+   <p>Anton-Wilhelm-Amo-Str. 58</p>
+   <p>10117, Berlin</p>
+  
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
